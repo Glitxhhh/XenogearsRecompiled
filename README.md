@@ -1,4 +1,6 @@
-<h1 align="center">Xenogears Recompiled</h1>
+<p align="center">
+  <img src="assets/logo.png" alt="Xenogears Recompiled" width="720">
+</p>
 
 <p align="center">
   A planned native PC recompilation project for Xenogears.
